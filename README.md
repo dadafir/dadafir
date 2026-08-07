@@ -69,7 +69,6 @@ Encrypted vault securing 50+ test users with zero breaches; QR-based MFA reduced
 
 - 📄 Published Researcher — IJRPR, IF 6.844, A+ Grade
 - 📜 Industry Letter of Recommendation — Rylai Technologies Pvt Ltd
-- 💯 100+ problems solved on LeetCode/HackerRank
 - 🚩 Active CTF player & ethical hacking workshop participant
 - 🎓 Diploma — Top 15% of cohort
 
